@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_default">#FFA000</color>
+    <color name="button_pressed">#FF6F00</color>
+    <color name="button_focused">#FFB300</color>
+
+    <color name="button_capstone_default">#C62828</color>
+    <color name="button_capstone_pressed">#B71C1C</color>
+    <color name="button_capstone_focused">#E53935</color>
+    <color name="button_capstone_text">#FFFFFF</color>
+
+</resources>
